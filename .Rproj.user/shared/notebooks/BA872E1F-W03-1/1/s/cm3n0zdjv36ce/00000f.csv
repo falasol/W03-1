@@ -1,0 +1,6 @@
+"0","#| label: exercise-1-significant-predictors"
+"0",""
+"0","significant_predictors <- spend_coefficients |>"
+"0","  filter(term != ""(Intercept)"", p.value < 0.05)"
+"0",""
+"0","significant_predictors"

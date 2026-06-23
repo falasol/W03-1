@@ -1,0 +1,4 @@
+"0","#| label: exercise-1-r-squared"
+"0",""
+"0","spend_model_fit |>"
+"0","  select(r.squared, adj.r.squared, p.value)"

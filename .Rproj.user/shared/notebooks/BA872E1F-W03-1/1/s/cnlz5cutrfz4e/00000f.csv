@@ -1,0 +1,5 @@
+"0","#| label: exercise-1-glance"
+"0",""
+"0","spend_model_fit <- glance(spend_model)"
+"0",""
+"0","spend_model_fit"

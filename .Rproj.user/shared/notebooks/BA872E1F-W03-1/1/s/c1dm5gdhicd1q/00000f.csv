@@ -1,0 +1,5 @@
+"0","#| label: exercise-1-tidy"
+"0",""
+"0","spend_coefficients <- tidy(spend_model)"
+"0",""
+"0","spend_coefficients"
