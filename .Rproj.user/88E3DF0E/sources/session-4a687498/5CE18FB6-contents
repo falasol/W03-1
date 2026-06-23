@@ -645,3 +645,7 @@ If we use a regular random split, we might accidentally put very few or even zer
 This means the model is probably overfitting. It learned the training data too well, but it does not perform well on new data.
 
 Next, I would try simplifying the model, using regularization, checking for data leakage, tuning the model, or getting more representative data. The goal would be to improve how well the model generalizes to the test set.
+
+## Appendix
+[Published report on GitHub Pages](https://falasol.github.io/W03-1/)
+[GitHub Repository](https://github.com/falasol/W03-1)
